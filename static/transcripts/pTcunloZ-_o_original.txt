@@ -1,0 +1,48 @@
+hey hello everyone in this video I'll be 
+showing you how to use Gemini AI API with   python so let's get started so first thing is 
+just Google Gemini AI API you'll be getting   this link ai. gooogle dot dev just click this 
+and you'll be getting the build with Gemini   interface like this and if you haven't signed 
+in you need to click on sign in and sign in   with your Google account so once you have done 
+that just click on get API key in Google AI studio so this is the interface that we'll be 
+getting and to the right we'll be having a model   so at the moment we are currently having only 
+Gemini 1.0 Pro and in case if you want to get   a sample demo of the response here you can type 
+something so I'll just go with essay on AI and if   I click this we'll be getting a sample response 
+from Gemini 1.0 pro model this is a response   that I'm getting and in case if you want to see 
+the documentation to the left you'll be having   this documentation over here so here you can just 
+go to Python and you'll be having a sample code   over here now let's just begin to code so I'll 
+just go to my studio and to the topmost right   you'll be having this get code if I click this 
+this will have a sample code for curl request   JavaScript python Android cine and Swift and if I 
+click JavaScript I'll be getting the code and for   python we are having additional option as open 
+in collab so if I click this we'll be getting   an collab space over here and we can even run our 
+code and check over here so we just need to plug   in our API key over here and we can just run and 
+get our output so this is one way of running the   code in Python the second way is going to be just 
+copying this code just copy this and let me go to   my visual studio code I will just create a new 
+file and let me just paste the code over here   and we'll be adding our API key over here so for 
+getting the API key to the left we'll be having   a get API key option click this and this is fine 
+just click on okay we need to click on create API   key so in case if you don't have any existing 
+projects you'll be having here option called   as create API key you can just click there and 
+create I'm having some existing project so I'll   just click my project and click on create API 
+key in existing project so this is my API key   I'll just copy this close it and in case if you 
+don't want the API key you can just delete it in   case if you feel it's compromised or something 
+I'll just go to my code and inside double quotes   I will just paste my API key like this so now we 
+are done adding the API key and the next thing   that we need to do is we need to install this 
+particular python package so here it says right   pip install Google generative AI so if you go here 
+to that package you'll be getting a sample code   also you can just read it through so I'll just do 
+this just copy this and paste it in my terminal   yeah that's it so this is good and here we can 
+make some changes for example we can change the   maximum output tokens and the safety settings we 
+are passing the model name the generation config   and safety settings to this generative model 
+object and we are getting a variable there model   and with that we are starting our conversation and 
+here you remember right I gave a prompt essay on   here right this saves our chat history over here 
+so basically we don't need this at all at this   moment so if you want you can just remove this if 
+you want you can just have the chat history maybe   in case if you're using like you can just store 
+it inside this list in my case in this demo I   don't need that so I'm just removing it and here 
+we will be typing our prompt so I'll just go with   the same topic essay on AI and we're just printing 
+it last. text so this is the code basically I'll   just save it and I'll will clear my console and 
+run it for running it it's going to be python   space your file name. py and make sure that you 
+have already installed and configured python on   your system so this is the response that I get 
+so literally it's such a big essay that we are   getting and in case if you want to minimize the 
+number of words that is getting generated you   can go here and change this maximum output tokens 
+you can just minimize the value over here so this   is basically how you run and use Gemini AI API 
+in Python I hope you would have found this video   useful do check the playlist of my channel I have 
+done a lot of videos in openAI API programming   Gemini AI as well as other AI videos also check 
+the playlist subscribe me thanks for watching

@@ -32,11 +32,11 @@ Users can simply provide a YouTube link and instantly receive the video's conten
 | Component              | Technology / Library      | Purpose                                                                   |
 | :--------------------- | :------------------------ | :------------------------------------------------------------------------ |
 | **Core Logic**         | Python                    | The primary language for backend processing and API orchestration.        |
-| **Web Framework**      | Flask / FastAPI           | *(Choose one)* To build the API endpoint that handles user requests.      |
+| **Web Framework**      | Flask                     | To build the API endpoint that handles user requests.      |
 | **API Integration**    | `youtube-transcript-api`  | For automated extraction of video subtitles.                              |
 | **Translation Engine** | `deep-translate`          | For translating text between supported languages.                         |
 | **Audio Generation**   | `gTTS`                    | For converting translated text into listenable audio files.               |
-| **Frontend**           | HTML/CSS, JavaScript      | *(Or React if you used it)* For building the user-facing interface.       |
+| **Frontend**           | HTML/CSS, JavaScript      | For building the user-facing interface.       |
 
 ---
 

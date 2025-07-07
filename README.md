@@ -53,8 +53,7 @@ To run this project on your local machine, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://your-repo-link.com
-    cd youtube-ai-suite
+    git clone [https://your-repo-link.com](https://github.com/harshithaendreddy/Youtube-Transcript-Generator-and-Converter.git)
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
@@ -67,6 +66,6 @@ To run this project on your local machine, follow these steps.
     ```
 4.  **Run the application:**
     ```bash
-    flask run  # Or `uvicorn main:app --reload` if using FastAPI
+    python app.py  
     ```
 5.  Open your web browser and navigate to `http://127.0.0.1:5000` to use the application.

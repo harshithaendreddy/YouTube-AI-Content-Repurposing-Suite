@@ -53,7 +53,7 @@ To run this project on your local machine, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/harshithaendreddy/Youtube-Transcript-Generator-and-Converter.git
+    git clone https://github.com/harshithaendreddy/YouTube-AI-Content-Repurposing-Suite.git
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
